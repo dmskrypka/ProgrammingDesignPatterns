@@ -1,0 +1,9 @@
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\bin\Debug\TestingFunc.exe.config
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\bin\Debug\TestingFunc.exe
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\bin\Debug\TestingFunc.pdb
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\obj\Debug\TestingFunc.csprojResolveAssemblyReference.cache
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\obj\Debug\TestingFunc.csproj.CoreCompileInputs.cache
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\obj\Debug\TestingFunc.exe
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\obj\Debug\TestingFunc.pdb
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\bin\Debug\AutoMapper.dll
+C:\Users\dskrypka\source\repos\version_1\TestingFunc\bin\Debug\AutoMapper.xml
